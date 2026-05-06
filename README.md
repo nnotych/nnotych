@@ -38,6 +38,12 @@
 ![OpenVAS](https://img.shields.io/badge/OpenVAS-Vulnerability%20Scanner-green?logo=security&logoColor=white)
 
 ---
+## ☁️ Cloud Platforms
+
+![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4?logo=azure-devops&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Platform-4285F4?logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Services-FF9900?logo=amazon-aws&logoColor=white)
+---
 ## 🏆 Achievements
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nnotych&theme=darkhub&margin-w=15&margin-h=15)
 
