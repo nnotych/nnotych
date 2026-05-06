@@ -51,8 +51,9 @@
 
 ---
 
-## 🎬 Animated Banner
-![Cyber Banner](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
+
+![Cyber Security Animation](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
 ---
 
