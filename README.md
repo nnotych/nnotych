@@ -79,3 +79,4 @@
 - [API-SAMM OWASP Checker](https://github.com/nnotych/API-SAMM--OWASP-checker)  
 - [Telegram Anon Chat Bot](https://github.com/nnotych/Telegram-anon-chat-match-bot)  
 - [NovaPoshta Virtuemart Plugin](https://github.com/nnotych/Novaposhta-Virtuemart-Joomla3)  
+- [LinuxLogScanTool](https://github.com/nnotych/LinuxLogScanTool.git)
