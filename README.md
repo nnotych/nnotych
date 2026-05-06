@@ -38,13 +38,6 @@
 ![OpenVAS](https://img.shields.io/badge/OpenVAS-Vulnerability%20Scanner-green?logo=security&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nnotych&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nnotych&layout=compact&theme=radical)
-
----
-
 ## 🏆 Achievements
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nnotych&theme=darkhub&margin-w=15&margin-h=15)
 
