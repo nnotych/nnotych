@@ -68,7 +68,7 @@
 - Extensive experience in **system administration, DevOps, and SOC operations**  
 - Developed **custom Linux utilities written in C** for monitoring, vulnerability scanning, and automation  
 - Skilled in writing and optimizing  LINUX **configuration files** (`systemd`, `sysctl.conf`, Nginx/Apache, DNS)  
-- Practical knowledge of **kernel tuning, memory optimization **, and security hardening  
+- Practical knowledge of **kernel tuning, memory optimization , kernel patching **, and security hardening  
 
 Experienced in **building and customizing Linux kernels** for embedded systems (ARM, RISC‑V, x86).  
 
