@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 - Master's Degree in **Software Engineering** (2025)  
--  Software Engineer ,System Administrator, DevOps Engineer, Network Engineer, SOC Specialist  
+-  Software Engineer , DevOps Engineer, Network Engineer, SOC Specialist ,System Administrator
 - Practical experience with **Docker, AWS, Kubernetes, Helm, Linux**  
 - Interested in **DevSecOps, Security Operations, Embedded Systems,Software development**  
 - 📫 Contact: nikita.noty@gmail.com  
