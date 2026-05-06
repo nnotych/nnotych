@@ -1,6 +1,6 @@
 # 🚀 Hi, I'm Nikita 
 
-### 🔐 DevSecOps | ⚙️ DevOps | 🛰 SOC | 💻 Embedded Developer
+### 🔐 DevSecOps | ⚙️ DevOps | 🛰 SOC | 💻 Software and Embedded Developer
 
 ---
 
