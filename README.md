@@ -44,6 +44,21 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Platform-4285F4?logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-Cloud%20Services-FF9900?logo=amazon-aws&logoColor=white)
 ---
+## 🔧 Embedded Systems & Hardware
+
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-IoT%20Computer-C51A4A?logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-Microcontroller-00979D?logo=arduino&logoColor=white)
+
+### 🐍 Raspberry Pi
+- Full single-board computer running Linux  
+- Supports Python, C/C++, Docker, Kubernetes experiments  
+- Ideal for IoT gateways, home servers, AI prototyping  
+
+### ⚡ Arduino
+- Lightweight microcontroller board  
+- Programmed in C/C++ via Arduino IDE  
+- Perfect for sensors, robotics, automation, real-time control  
+---
 ## 🏆 Achievements
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nnotych&theme=darkhub&margin-w=15&margin-h=15)
 
