@@ -8,9 +8,8 @@
 - Master's Degree in **Software Engineering** (2025)  
 -  Software Engineer ,System Administrator, DevOps Engineer, Network Engineer, SOC Specialist  
 - Practical experience with **Docker, AWS, Kubernetes, Helm, Linux**  
-- Interested in **DevSecOps, Security Operations, Embedded Systems**  
-- Based in **Ivano-Frankivsk, Ukraine**  
-- 📫 Contact: nnotych@gmail.com  
+- Interested in **DevSecOps, Security Operations, Embedded Systems,Software development**  
+- 📫 Contact: nikita.noty@gmail.com  
 
 ---
 
@@ -53,7 +52,7 @@
 
 
 
-![Cyber Security Animation](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Cyber Security Animation](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWUyNGY0ZW82ZHFvYmhtdXNyY25tZGNweGxudmkxbG9veXd2bXNobyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Zgy9QqzWU8C3ugvCa/giphy.gif)
 
 ---
 
