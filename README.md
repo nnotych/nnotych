@@ -63,7 +63,22 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nnotych&theme=darkhub&margin-w=15&margin-h=15)
 
 ---
+## 🐧 Custom Linux Utilities & Configs
 
+- ✨ Developed **custom utilities written in C** for Linux:
+  - CLI tools for system information gathering (CPU, memory, network stats)
+  - Automated vulnerability checkers (XSS/DOM analysis)
+  - ASN/BGP provider analysis scripts
+
+- ⚙️ Configuration Management:
+  - Custom `.conf` files for Nginx/Apache/DNS
+  - Optimized `systemd` units and services
+  - Fine‑tuned `sysctl.conf` for performance and security
+
+- 🛠 Integration:
+  - Wazuh & Graylog log monitoring
+  - Cloudflare firewall automation
+  - CI/CD deployment hooks for Kubernetes/Helm
 
 
 ![Cyber Security Animation](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWUyNGY0ZW82ZHFvYmhtdXNyY25tZGNweGxudmkxbG9veXd2bXNobyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Zgy9QqzWU8C3ugvCa/giphy.gif)
