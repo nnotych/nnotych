@@ -63,22 +63,22 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nnotych&theme=darkhub&margin-w=15&margin-h=15)
 
 ---
-## 🐧 Custom Linux Utilities & Configs
+## 🐧 Linux Expertise
 
-- ✨ Developed **custom utilities written in C** for Linux:
-  - CLI tools for system information gathering (CPU, memory, network stats)
-  - Automated vulnerability checkers (XSS/DOM analysis)
-  - ASN/BGP provider analysis scripts
+- Extensive experience in **system administration, DevOps, and SOC operations**  
+- Developed **custom Linux utilities written in C** for monitoring, vulnerability scanning, and automation  
+- Skilled in writing and optimizing  LINUX **configuration files** (`systemd`, `sysctl.conf`, Nginx/Apache, DNS)  
+- Practical knowledge of **kernel tuning, memory optimization **, and security hardening  
+- Applied Linux in **POS terminals, embedded systems, and cloud environments**  
 
-- ⚙️ Configuration Management:
-  - Custom `.conf` files for Nginx/Apache/DNS
-  - Optimized `systemd` units and services
-  - Fine‑tuned `sysctl.conf` for performance and security
+Experienced in **building and customizing Linux kernels** for embedded systems (ARM, RISC‑V, x86).  
 
-- 🛠 Integration:
-  - Wazuh & Graylog log monitoring
-  - Cloudflare firewall automation
-  - CI/CD deployment hooks for Kubernetes/Helm
+- Skilled in **cross‑compilation** and toolchain setup for resource‑constrained devices.  
+- Proficient in **Device Tree (DTB) configuration** for hardware resource mapping (GPIO, UART, I²C, SPI).  
+- Developed **custom drivers and modules in C** for embedded hardware.  
+- Optimized **system performance and security** through kernel tuning and minimal configuration.  
+- Applied Linux in **IoT devices, POS terminals, routers, and automotive systems**.  
+
 
 
 ![Cyber Security Animation](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWUyNGY0ZW82ZHFvYmhtdXNyY25tZGNweGxudmkxbG9veXd2bXNobyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Zgy9QqzWU8C3ugvCa/giphy.gif)
